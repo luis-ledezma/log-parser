@@ -10,7 +10,7 @@ cd app
 pip3 install -r requirements.txt
 python3 parser.py log.txt
 ```
-Theres a testing log file [here](app/log.txt).
+There is a testing log file [here](app/log.txt).
 
 ### Run API locally
 API can be run locally by installing the Flask library.
